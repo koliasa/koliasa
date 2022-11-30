@@ -12,15 +12,15 @@
     <a href="https://xn--80aja5axd.com/contact-us">Ask Question</a>
   </p>
   <p align="center">
-    <a href="https://xn--80aja5axd.com/contact-us?lang=english">English </a>
+    <a href="https://xn--80aja5axd.com/?lang=english">English </a>
     ·
-    <a href="/docs/readme_cn.md">简体中文</a>
+    <a href="https://xn--80aja5axd.com/?lang=swedish">Svenska</a>
     ·
-    <a href="/docs/readme_es.md">Español</a>
+    <a href="https://xn--80aja5axd.com/?lang=arabic">عربى</a>
     ·
-    <a href="/docs/readme_de.md">Deutsch</a>
+    <a href="https://xn--80aja5axd.com/?lang=japanese">日本</a>
     ·
-    <a href="/docs/readme_ja.md">日本語</a>
+    <a href="https://xn--80aja5axd.com/?lang=chinese">中國人</a>
     ·
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
