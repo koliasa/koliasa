@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm developer from Ukraine</h1>
+ <h2 align="center">Teneta</h2>
 <h3 align="center">At the moment, my main project is the Teneta social network, code adaptation, integration of AI where there is such an opportunity, and I am also interested in any collaboration with people who are interested in similar projects.</h3>
 
 - 🔭 I’m currently working on [Teneta](https://xn--80aja5axd.com/)
