@@ -17,22 +17,23 @@
     <a href="https://xn--80aja5axd.com/?lang=german">Deutsch</a>
     ·
     <a href="https://xn--80aja5axd.com/?lang=swedish">Svenska</a>
+     ·
+    <a href="https://xn--80aja5axd.com/?lang=french">Français</a>
+    ·
+    <a href="https://xn--80aja5axd.com/?lang=italian">Italiano</a>
+    .
+    <a href="https://xn--80aja5axd.com/?lang=turkish">Türk</a>
+    .
+    <a href="https://xn--80aja5axd.com/?lang=korean">한국어</a>
+    .
+    <a href="https://xn--80aja5axd.com/?lang=hindi">हिन्दी</a>
     ·
     <a href="https://xn--80aja5axd.com/?lang=arabic">عربى</a>
     ·
     <a href="https://xn--80aja5axd.com/?lang=japanese">日本</a>
     ·
     <a href="https://xn--80aja5axd.com/?lang=chinese">中國人</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
+
   </p>
 </p>
 
