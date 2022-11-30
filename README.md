@@ -1,7 +1,7 @@
 <h3 align="center">-----------------------------------------------------------------------------------------------------------</h3>
 <h2 align="center">TENETA</h2>
  
-<h3 align="center">A social network for the interaction of people in any field, entertainment, business, science ....</h3>
+<h3 align="center">A social network for the interaction of people in any field, entertainment, business, science ...</h3>
 
 <p align="center">
     <a href="https://xn--80aja5axd.com/register">Register</a>
