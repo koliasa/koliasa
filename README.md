@@ -1,4 +1,5 @@
- <h2 align="center">TENETA</h2>
+<h3 align="center">-----------------------------------------------------------------------------------------------------------</h3>
+<h2 align="center">TENETA</h2>
  
 <h3 align="center">A social network for the interaction of people in any field, entertainment, business, science ....</h3>
 
