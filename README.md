@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm developer from Ukraine</h1>
+<h3 align="center">The main field of activity is AI, automation of civil infrastructure. In my free time, I work on my own UAV.</h3>
+
 - 🔭 I’m currently working on [Teneta](https://xn--80aja5axd.com/)
 
 <h3 align="left">Languages and Tools:</h3>
