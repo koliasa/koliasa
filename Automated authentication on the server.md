@@ -7,3 +7,5 @@ You also need to specify the IP address and server name in the `putty`. Next, we
 `cd %ProgramFiles%\Putty\
 start putty.exe -load HOSTNAME -l USERNAME -pw PASSWORD`
 
+you can also download a copy of the script
+[example.zip](https://github.com/koliasa/koliasa/files/10127656/example.zip)
