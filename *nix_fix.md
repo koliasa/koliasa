@@ -11,5 +11,5 @@ GRUB_CMDLINE_LINUX_DEFAULT='quiet splash loglevel=3'`
 
 ### Встановлення VMWARE 17 на nix
 
-`chmod +x VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
-sh VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle`
+`chmod +x VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle`
+`sh VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle`
