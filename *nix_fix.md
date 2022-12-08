@@ -13,3 +13,7 @@ GRUB_CMDLINE_LINUX_DEFAULT='quiet splash loglevel=3'`
 
 `chmod +x VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle`
 `sh VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle`
+
+macOS Unlocker V3.0 for VMware Workstation
+
+`sudo bash lix-install.sh`
