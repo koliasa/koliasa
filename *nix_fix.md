@@ -35,5 +35,7 @@ Visual Studio 2022
 Enterprise: `VHF9H-NXBBB-638P6-6JHCY-88JWH`
 Professional: `TD244-P4NB7-YQ6XK-Y8MMM-YWV2J`
 
+Ubuntu logo
 
-+380 (68) 254 00 00
+the logo is from the package plymouth
+the file is located at `/usr/share/plymouth/ubuntu-logo.png`
