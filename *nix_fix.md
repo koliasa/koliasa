@@ -14,7 +14,7 @@ GRUB_CMDLINE_LINUX_DEFAULT='quiet splash loglevel=3'`
 `chmod +x VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle`
 `sh VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle`
 
-key
+### key
 
 `CY58U-AYF1N-H8EJP-JMY79-YQ2A8`
 `YZ7HU-4AE00-M81WY-PMYNE-W38UF`
@@ -26,16 +26,16 @@ key
 `CV11K-84WEP-48DJY-WFP5G-QPUA2`
 `UZ1HK-6RW8Q-08EUP-Y5Q5E-YUKC0`
 
-macOS Unlocker for VMware Workstation
+### macOS Unlocker for VMware Workstation
 
 `sudo bash lix-install.sh`
 
-Visual Studio 2022
+### Visual Studio 2022
 
 Enterprise: `VHF9H-NXBBB-638P6-6JHCY-88JWH`
 Professional: `TD244-P4NB7-YQ6XK-Y8MMM-YWV2J`
 
-Ubuntu logo
+### Ubuntu logo
 
 the logo is from the package plymouth
 the file is located at `/usr/share/plymouth/ubuntu-logo.png`
