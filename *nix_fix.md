@@ -39,3 +39,8 @@ Professional: `TD244-P4NB7-YQ6XK-Y8MMM-YWV2J`
 
 the logo is from the package plymouth
 the file is located at `/usr/share/plymouth/ubuntu-logo.png`
+
+### Ubuntu logo
+
+the logo is from the package plymouth
+the file is located at `/usr/share/plymouth/ubuntu-logo.png`
