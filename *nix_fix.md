@@ -8,6 +8,9 @@ GRUB_CMDLINE_LINUX_DEFAULT='quiet splash loglevel=3'`
 
 Збережіть зміни та виконийте в терміналі команду `sudo update-grub`
 
+### Найти статику
+`curl ifconfig.me`
+
 
 ### VMWARE 17
 
