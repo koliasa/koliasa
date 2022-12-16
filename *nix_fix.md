@@ -1,21 +1,18 @@
 ### Помилка ACPI
 
 Відкриваємо `/etc/default/grub` з правами root в будь якому тектовому редакторі
-Приклад команди `sudo gedit /etc/default/grub` вносимо наступні дані
-
-`#Видаляємо помилки під час завантаження операційної сиситеми (стосується проблем зі старим біосом) після збереження змін виконати наступну команду sudo update-grub
-GRUB_CMDLINE_LINUX_DEFAULT='quiet splash loglevel=3'`
+Приклад команди <pre><code>sudo gedit /etc/default/grub</code></pre> 
+Видаляємо помилки під час завантаження операційної сиситеми (стосується проблем зі старим біосом) після збереження змін виконати наступну команду <pre><code>sudo update-grub GRUB_CMDLINE_LINUX_DEFAULT='quiet splash loglevel=3'</code></pre>
 
 Збережіть зміни та виконийте в терміналі команду `sudo update-grub`
 
-### Найти статику
-`curl ifconfig.me`
-
+#### Найти статику
+<pre><code>curl ifconfig.me</code></pre>
 
 ### VMWARE 17
 
-`chmod +x VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle`
-`sh VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle`
+<pre><code>chmod +x VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle
+sh VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle</code></pre>
 
 ### key
 
