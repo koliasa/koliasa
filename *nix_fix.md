@@ -26,6 +26,12 @@ sh VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle</code></pre>
 `CV11K-84WEP-48DJY-WFP5G-QPUA2`
 `UZ1HK-6RW8Q-08EUP-Y5Q5E-YUKC0`
 
+### WoeUSB
+
+<pre><code>sudo apt install git p7zip-full python3-pip python3-wxgtk4.0 grub2-common grub-pc-bin
+</code></pre>
+<pre><code>sudo pip3 install WoeUSB-ng</code></pre>
+
 ### macOS Unlocker for VMware Workstation
 
 `sudo bash lix-install.sh`
