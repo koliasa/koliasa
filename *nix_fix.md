@@ -10,8 +10,9 @@
 <pre><code>curl ifconfig.me</code></pre>
 
 #### Asciiquarium
-<pre><code>sudo add-apt-repository ppa:ytvwld/asciiquarium</code></pre>
-<pre><code>sudo apt-get update && sudo apt-get install asciiquarium</code></pre>
+<pre><code>sudo apt update</code></pre>
+<pre><code>sudo apt install snapd</code></pre>
+<pre><code>sudo snap install asciiquarium</code></pre>
 
 ### VMWARE 17
 
