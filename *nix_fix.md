@@ -9,6 +9,10 @@
 #### Найти статику
 <pre><code>curl ifconfig.me</code></pre>
 
+#### Asciiquarium
+<pre><code>sudo add-apt-repository ppa:ytvwld/asciiquarium</code></pre>
+<pre><code>sudo apt-get update && sudo apt-get install asciiquarium</code></pre>
+
 ### VMWARE 17
 
 <pre><code>chmod +x VMware-Workstation-Full-17.0.0-20120288.x86_64.bundle
